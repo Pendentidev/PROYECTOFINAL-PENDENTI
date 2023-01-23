@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "nombre": "Buzo Ricky",
+        "tipo": "buzo",
+        "desc": "Buzo con hoddie",
+        "precio": 5000,
+        "talle": "L",
+        "img": "src/img/buzo.jpg",
+        "cantidad": 1,
+        "categoria": "buzo"
+    },
+    {
+        "id": 2,
+        "nombre": "Remera Praia",
+        "tipo": "remera",
+        "desc": "Remera over size",
+        "precio": 3000,
+        "talle": "M",
+        "img": "src/img/remera.jpg",
+        "cantidad": 1,
+        "categoria": "remera"
+    },
+    {
+        "id": 3,
+        "nombre": "Campera Chula",
+        "tipo": "campera",
+        "desc": "Campera de invierno",
+        "precio": 7000,
+        "talle": "S",
+        "img": "src/img/campera.jpg",
+        "cantidad": 1,
+        "categoria": "campera"
+    },
+    {
+        "id": 4,
+        "nombre": "Remera Tilt",
+        "tipo": "remera",
+        "desc": "Remera surfer",
+        "precio": 2000,
+        "talle": "M",
+        "img": "src/img/remera2.jpg",
+        "cantidad": 1,
+        "categoria": "remera"
+    },
+    {
+        "id": 5,
+        "nombre": "Buzo Patito",
+        "tipo": "buzo",
+        "desc": "Buzo amarillo",
+        "precio": 4500,
+        "talle": "S",
+        "img": "src/img/buzo2.jpg",
+        "cantidad": 1,
+        "categoria": "buzo"
+    }
+]
